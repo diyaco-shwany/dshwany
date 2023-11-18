@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dshwany
 - 👀 I’m interested in modelling applications to cosmological problems
-- 🌱 I’m currently learning Neural Networks to solve the Klein Gordon Equation
-- 💞️ I’m looking to collaborate on ..
+- 🌱 I’m currently learning Neural Networks for applications in Physics
+- 💞️ I’m looking to collaborate on a cosmology based research project
 - 📫 How to reach me: University Email (diyaco.shwany@student.manchester.ac.uk), Personal Email (sdiyaco@gmail.com)
 
 <!---
